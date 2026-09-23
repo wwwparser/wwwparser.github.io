@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://wwwparser.github.io/selecline-bm1250c/sitemap.xml
 Sitemap: https://wwwparser.github.io/festival-stolyarnogo-dela/sitemap.xml
+Sitemap: https://wwwparser.github.io/xhdata-d808/sitemap.xml
